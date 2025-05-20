@@ -1,3 +1,11 @@
-# PRAKASH BANDAVADE
+👋 Hi, I'm Prakash Bandavade
+Aspiring Frontend Developer | Data Science Enthusiast | Cloud Learner
 
-Aspiring machine learning and web development enthusiast with hands-on experience building real-world projects such as fraud detection, flower classification, and survival prediction using Python, scikit-learn, and data preprocessing techniques. Proficient in key libraries including NumPy, Pandas, and Matplotlib, with strong fundamentals in software development, cloud platforms (AWS), and database systems. Passionate about solving problems through data-driven approaches and continuously exploring emerging technologies.
+I'm a passionate web developer who enjoys building sleek, responsive user interfaces and bringing designs to life using modern web technologies. Alongside my love for the front end, I dive into data science projects—solving real-world problems like fraud detection, sales forecasting, and survival prediction.
+
+🌐 Frontend Stack: HTML • CSS • JavaScript • Bootstrap • Tailwind CSS • React (Learning)
+📊 Data Science: Python • Pandas • NumPy • scikit-learn • Matplotlib • Jupyter Notebook
+☁️ Cloud: AWS (S3, EC2 Basics), GitHub, Git
+🔍 Projects: Amazon Clone • Titanic ML Model • Sales Forecasting • ChatGPT Research
+
+Currently pursuing B.Tech CSE (2026), I’m open to internships, freelance projects, and collaborations. Let’s connect and build something awesome!
